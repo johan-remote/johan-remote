@@ -1,12 +1,16 @@
 Hi, My name is Johan 👋
 
-<!--
+Bried introduction
+
 **johan-remote/johan-remote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/DeDj0/activity-develop-an-algorithm/lab?path=%2Fnotebooks%2FActivity_Develop%2520an%2520algorithm.ipynb
+
+https://coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/mGeoq/activity-use-regular-expressions-to-find-patterns/lab?path=%2Fnotebooks%2FActivity_Use%2520regular%2520expressions%2520to%2520find%2520patterns.ipynb
 
 Here are some ideas to get you started:
 
-https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/DeDj0/activity-develop-an-algorithm/lab?path=%2Fnotebooks%2FActivity_Develop%2520an%2520algorithm.ipynb
-https://coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/mGeoq/activity-use-regular-expressions-to-find-patterns/lab?path=%2Fnotebooks%2FActivity_Use%2520regular%2520expressions%2520to%2520find%2520patterns.ipynb
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
