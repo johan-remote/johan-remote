@@ -8,6 +8,8 @@ https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungraded
 
 https://coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/mGeoq/activity-use-regular-expressions-to-find-patterns/lab?path=%2Fnotebooks%2FActivity_Use%2520regular%2520expressions%2520to%2520find%2520patterns.ipynb
 
+https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/90eDT/activity-import-and-parse-a-text-file/lab?path=%2Fnotebooks%2FActivity_Import%2520and%2520parse%2520a%2520text%2520file.ipynb%23file_contents_reset
+
 Here are some ideas to get you started:
 
 
