@@ -10,6 +10,8 @@ https://coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/
 
 https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/90eDT/activity-import-and-parse-a-text-file/lab?path=%2Fnotebooks%2FActivity_Import%2520and%2520parse%2520a%2520text%2520file.ipynb%23file_contents_reset
 
+https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/aeLOb/activity-create-another-algorithm/lab?path=%2Fnotebooks%2FActivity_Create%2520another%2520algorithm.ipynb
+
 Here are some ideas to get you started:
 
 
