@@ -13,6 +13,7 @@ https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungraded
 https://docs.google.com/document/d/1z_gmVCrxHGHXGjcrhu-v_6aBrln5QlQHJpPYHgCfRkM/edit 
 https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/aeLOb/activity-create-another-algorithm/lab?path=%2Fnotebooks%2FActivity_Create%2520another%2520algorithm.ipynb
 
+https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/e6l2X/activity-debug-python-code/lab?path=%2Fnotebooks%2FLAB_014_Activity.ipynb 
 Here are some ideas to get you started:
 
 
