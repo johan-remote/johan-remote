@@ -35,9 +35,13 @@ https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungraded
 
 Here are some ideas to get you started:
 
-Examine alerts, logs, and rules with Suricata
+Examine alerts, logs, and rules
 
 
 https://www.cloudskillsboost.google/focuses/37950719?parent=lti_session 
+
+
+
+https://blueteamlabs.online/achievement/share/challenge/85169/16 
 
 
