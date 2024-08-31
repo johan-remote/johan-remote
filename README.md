@@ -2,6 +2,7 @@ Hi, My name is Johan 👋
 
 Bried introduction
 
+
 **johan-remote/johan-remote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/ungradedLab/DeDj0/activity-develop-an-algorithm/lab?path=%2Fnotebooks%2FActivity_Develop%2520an%2520algorithm.ipynb
