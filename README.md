@@ -5,6 +5,11 @@ www.linkedin.com/in/johan-oquendo-26726a323 >
 
 INTRODUCTION
 
+I am a self-taught cybersecurity analyst who is looking for a life-changing opportunity to work and learn with others and create solutions to problems
+in the cyber world. 
+
+OBJECTIVE
+
 I’m passionate about cybersecurity and dedicated to creating a safer digital world. My journey in cybersecurity is driven by a deep curiosity for uncovering vulnerabilities and a commitment to protecting systems against emerging threats. I enjoy diving into complex security challenges, whether it’s through ethical hacking, threat analysis, or developing secure code
 
 Here, you'll find projects that reflect my enthusiasm for security research and building tools that make the Internet a safer place. Let’s connect and collaborate to fortify the future of cyberspace!
