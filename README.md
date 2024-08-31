@@ -1,7 +1,6 @@
 Hi, My name is Johan 👋
 
-<a href="www.linkedin.com/in/johan-oquendo-26726a323" 
-  >
+www.linkedin.com/in/johan-oquendo-26726a323"
 
 
 INTRODUCTION
